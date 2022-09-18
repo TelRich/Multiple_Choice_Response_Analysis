@@ -4,7 +4,9 @@
 
 This project was done to understand the Python visualization package, Plotly.
 
-> **Please note this is a modified project from [kaggle](https://www.kaggle.com/code/hakkisimsek/plotly-tutorial-1)**
+> **Note this is a modified project from [kaggle](https://www.kaggle.com/code/hakkisimsek/plotly-tutorial-1)**
+>
+> Github performs a static render notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph. Because of that, I have paste this project notebook in a [Notebook Viewer](https://nbviewer.org/github/TelRich/Multiple_Choice_Response_Analysis/blob/main/plotly_a.ipynb) for rich view of the project.
 
 Here a multiple choice response from Kaggle ML and Data Science Survey data was analyse for insight, the insight are presented through plotly interactive plots such as bar plot, scatterplot, pie plot etc,.
 
@@ -30,4 +32,4 @@ Here a multiple choice response from Kaggle ML and Data Science Survey data was 
 >10. Data scientists and machine learning engineers are not only highly paid, they also have higher job satisfaction.
 >11. Although experiences of most respondents in coding are lower than 5 years, employment rate is quite high (65.3%).
 
-Check out the [notebook](https://github.com/TelRich/Multiple_Choice_Response_Analysis/blob/main/plotly_a.ipynb) for more insights.
+Check out the [notebook](https://nbviewer.org/github/TelRich/Multiple_Choice_Response_Analysis/blob/main/plotly_a.ipynb) for more insights.
