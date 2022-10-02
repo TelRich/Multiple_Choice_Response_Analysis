@@ -6,7 +6,7 @@ This project was done to understand the Python visualization package, Plotly.
 
 > **Note this is a modified project from [kaggle](https://www.kaggle.com/code/hakkisimsek/plotly-tutorial-1)**
 >
-> Github performs a static render notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph. Because of that, I have paste this project notebook in a [Notebook Viewer](https://nbviewer.org/github/TelRich/Multiple_Choice_Response_Analysis/blob/main/plotly_a.ipynb) for rich view of the project.
+> Github performs a static render notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph. Because of that, I have paste this project notebook in a [Notebook Viewer](https://nbviewer.org/github/TelRich/Multiple_Choice_Response_Analysis/blob/main/mul_choice_rep.ipynb) for rich view of the project.
 
 Here a multiple choice response from Kaggle ML and Data Science Survey data was analyse for insight, the insight are presented through plotly interactive plots such as bar plot, scatterplot, pie plot etc,.
 
