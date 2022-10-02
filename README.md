@@ -32,4 +32,4 @@ Here a multiple choice response from Kaggle ML and Data Science Survey data was 
 >10. Data scientists and machine learning engineers are not only highly paid, they also have higher job satisfaction.
 >11. Although experiences of most respondents in coding are lower than 5 years, employment rate is quite high (65.3%).
 
-Check out the [notebook](https://nbviewer.org/github/TelRich/Multiple_Choice_Response_Analysis/blob/main/plotly_a.ipynb) for more insights.
+Check out the [notebook](https://nbviewer.org/github/TelRich/Multiple_Choice_Response_Analysis/blob/main/mul_choice_rep.ipynb) for more insights.
